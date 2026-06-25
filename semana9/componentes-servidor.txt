@@ -1,0 +1,17 @@
+Sistema operativo: Es un software que actúa como un mediador entre el usuario y el 
+hardware del ordenador. De esta manera se comunica con las distintas partes de la
+computadora garantizando el funcionamiento de manera continua de estas partes de 
+acuerdo a las ordenes que soliciten las aplicaciones instaladas en el equipo.
+
+Node.js:  es un entorno para ejecutar JavaScript fuera del navegador. Utiliza el 
+lenguaje de programación Node.js y también frameworks.
+
+Aplicación server.js: Es el archivo principal de backend que se encarga de recibir 
+peticiones y de acuerdo a la petición devolver una respuesta o información. 
+
+Puerto: Es un punto de conexión que puede ser físico o virtual, como una USB o una 
+dirección digital que permite que un dispositivo se conecte a internet y pueda enviar
+y recibir información. 
+
+Logs: Es un archivo informático que almacena de forma cronológica todos los eventos, 
+acciones y errores que ocurren dentro de un sistema, servidor o aplicación

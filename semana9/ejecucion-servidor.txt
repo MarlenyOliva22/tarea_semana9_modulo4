@@ -1,0 +1,10 @@
+Cuando ejecuto el comando node server.js, node inicializa el script del servidor y en
+la terminal aparece el mensaje servidor ejecutandose en puerto 3000, de esta manera el
+servidor esta activo, y se despliega una ventana emergente que sugiere visitar 
+localhost:3000 mediante un link, cuando accedemos al link mediante el navegador 
+observamos la frase "servidor funcionando" la cual esta en formato JSON y vemos 
+tambien el tipo de servicio "API comunitaria".
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

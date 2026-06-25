@@ -1,0 +1,11 @@
+Es importante que las plataformas tecnologías que usan las comunidades funcionen de 
+manera estable y segura en un servidor porque de esta manera las comunidades pueden 
+estar en constante comunicación con los demás miembros de la plataforma y de esta 
+manera no se ve interrumpido el flujo de información, evitando la frustración por 
+fallas tecnicas; además siempre que la plataforma funcione correctamente se creara 
+una reputación gracias a su funcionamiento y esto a la vez atraerá a más miembros a 
+la comunidad por la confianza que tienen sus actuales usuarios en ella y la seguridad
+al momento del manejo de la información. De esta manera la seguridad en una 
+plataforma evita que individuos externos a la plataforma manipulen la información de 
+los usuarios y modifiquen de alguna forma la plataforma, protegiendo la integridad de
+la plataforma y de sus usuarios. 
